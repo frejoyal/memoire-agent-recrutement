@@ -1,0 +1,28 @@
+[
+ {"id": "qj1", "utilisateur": "julie", "type": "mise à jour", "question": "Combien de candidats dois-je mettre dans mes short-lists ?", "attendu": [["3", "trois"]], "perime": ["5", "cinq"], "confusion": ["4", "quatre"]},
+ {"id": "qj2", "utilisateur": "julie", "type": "relation", "question": "Qui dois-je mettre en copie pour Assurances Riveraine ?", "attendu": [["cote"]]},
+ {"id": "qj3", "utilisateur": "julie", "type": "préférence", "question": "Quel jour j'envoie mes rapports ?", "attendu": [["lundi"]], "confusion": ["jeudi", "vendredi"]},
+ {"id": "qj4", "utilisateur": "julie", "type": "événement", "question": "Pourquoi Riveraine a-t-il refusé le candidat c042 ?", "attendu": [["reclamation", "reclamations"]]},
+ {"id": "qj5", "utilisateur": "julie", "type": "événement", "question": "Qui me remplace pour Riveraine pendant mes vacances ?", "attendu": [["karim"]]},
+ {"id": "qj6", "utilisateur": "julie", "type": "préférence", "question": "Quel format dois-je donner à mes résumés de candidats ?", "attendu": [["puce", "puces"], ["page"]]},
+ {"id": "qj7", "utilisateur": "julie", "type": "historique", "question": "Avant mai, combien de candidats je mettais au maximum dans mes short-lists ?", "attendu": [["5", "cinq"]]},
+ {"id": "qj8", "utilisateur": "julie", "type": "piège", "question": "Quel est mon logiciel de courriel préféré ?", "attendu": []},
+
+ {"id": "qk1", "utilisateur": "karim", "type": "préférence", "question": "Combien de candidats dois-je mettre dans mes short-lists ?", "attendu": [["4", "quatre"]], "confusion": ["3", "trois", "5", "cinq"]},
+ {"id": "qk2", "utilisateur": "karim", "type": "mise à jour", "question": "Quel jour dois-je envoyer mes rapports d'avancement maintenant ?", "attendu": [["jeudi"]], "perime": ["vendredi"], "confusion": ["lundi"]},
+ {"id": "qk3", "utilisateur": "karim", "type": "relation", "question": "Quelle exigence pratique Manufacturier Boréal a-t-il pour les candidats ?", "attendu": [["voiture", "vehicule", "auto"]]},
+ {"id": "qk4", "utilisateur": "karim", "type": "événement", "question": "Qui ai-je placé chez Boréal en mai, et quand commence-t-il ?", "attendu": [["gagnon"], ["15 juin"]]},
+ {"id": "qk5", "utilisateur": "karim", "type": "préférence", "question": "Comment dois-tu me joindre pour une urgence ?", "attendu": [["appel", "appeler", "appelle", "appele", "telephone", "telephoner"]]},
+ {"id": "qk6", "utilisateur": "karim", "type": "préférence", "question": "Quel genre de candidat je ne présente jamais ?", "attendu": [["production"]]},
+ {"id": "qk7", "utilisateur": "karim", "type": "isolation", "question": "Combien de candidats Julie met-elle dans ses short-lists ?", "attendu": []},
+ {"id": "qk8", "utilisateur": "karim", "type": "piège", "question": "Comment s'appelle mon chat ?", "attendu": []},
+
+ {"id": "qs1", "utilisateur": "sophie", "type": "mise à jour", "question": "Quel est notre objectif de délai moyen de placement ?", "attendu": [["25"]], "perime": ["30"]},
+ {"id": "qs2", "utilisateur": "sophie", "type": "préférence", "question": "Quels indicateurs je veux dans ma synthèse mensuelle ?", "attendu": [["placement", "placements"], ["delai"], ["garantie", "remplacement"]]},
+ {"id": "qs3", "utilisateur": "sophie", "type": "préférence", "question": "Quand dois-je recevoir ma synthèse mensuelle ?", "attendu": [["premier jour ouvrable"]]},
+ {"id": "qs4", "utilisateur": "sophie", "type": "préférence", "question": "Quel type de graphique je préfère dans mes synthèses ?", "attendu": [["barre", "barres"]]},
+ {"id": "qs5", "utilisateur": "sophie", "type": "préférence", "question": "Dans quels cas veut-on me mettre en copie ?", "attendu": [["escalade", "escalades"]]},
+ {"id": "qs6", "utilisateur": "sophie", "type": "événement", "question": "Où et quand est-ce que je présente ma conférence ?", "attendu": [["montreal"], ["18 septembre"]]},
+ {"id": "qs7", "utilisateur": "sophie", "type": "isolation", "question": "Quel jour Karim envoie-t-il ses rapports ?", "attendu": []},
+ {"id": "qs8", "utilisateur": "sophie", "type": "piège", "question": "Quel est mon budget de formation pour l'année ?", "attendu": []}
+]

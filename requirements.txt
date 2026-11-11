@@ -1,0 +1,2 @@
+# Recalculer les résultats à partir du cache et de l'enregistrement de Mem0 (ce que fait la CI)
+numpy==2.4.6

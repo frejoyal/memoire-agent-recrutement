@@ -1,0 +1,104 @@
+[
+ {"id": "j1", "date": "2026-03-02", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list."},
+  {"role": "assistant", "content": "Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list."},
+  {"role": "user", "content": "Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus."},
+  {"role": "assistant", "content": "Entendu : des résumés en puces, d'une page au plus."}
+ ]},
+ {"id": "k1", "date": "2026-03-03", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins."},
+  {"role": "assistant", "content": "Parfait Karim, 4 candidats par short-list."},
+  {"role": "user", "content": "Tu peux aussi me rappeler les étapes d'un mandat ?"},
+  {"role": "assistant", "content": "Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi."}
+ ]},
+ {"id": "s1", "date": "2026-03-05", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois."},
+  {"role": "assistant", "content": "Bonjour Sophie. Que voulez-vous y voir ?"},
+  {"role": "user", "content": "Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie."},
+  {"role": "assistant", "content": "C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois."}
+ ]},
+ {"id": "j2", "date": "2026-03-09", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer."},
+  {"role": "assistant", "content": "Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client."},
+  {"role": "user", "content": "Il fait un froid de canard aujourd'hui, j'ai hâte au printemps."},
+  {"role": "assistant", "content": "Courage, mars finit toujours par passer !"}
+ ]},
+ {"id": "k2", "date": "2026-03-17", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie."},
+  {"role": "assistant", "content": "D'accord, rapports d'avancement le vendredi après-midi."},
+  {"role": "user", "content": "Merci. Je dois filer, j'ai une entrevue à 14 h."},
+  {"role": "assistant", "content": "Bonne entrevue !"}
+ ]},
+ {"id": "j3", "date": "2026-03-23", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux."},
+  {"role": "assistant", "content": "Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir."}
+ ]},
+ {"id": "s2", "date": "2026-03-26", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades."},
+  {"role": "assistant", "content": "Entendu : vous êtes en copie seulement pour les escalades."}
+ ]},
+ {"id": "k3", "date": "2026-03-31", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun."},
+  {"role": "assistant", "content": "C'est noté : pour Manufacturier Boréal, une voiture est nécessaire."},
+  {"role": "user", "content": "Mon contact là-bas, c'est Luc Bergeron, le directeur de la production."},
+  {"role": "assistant", "content": "Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci."}
+ ]},
+ {"id": "s3", "date": "2026-04-09", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Notre objectif cette année : un délai moyen de placement de 30 jours."},
+  {"role": "assistant", "content": "Objectif noté : 30 jours de délai moyen de placement."}
+ ]},
+ {"id": "j4", "date": "2026-04-14", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations."},
+  {"role": "assistant", "content": "Dommage. Je note la raison du refus : pas d'expérience des données de réclamations."},
+  {"role": "user", "content": "Pour les prochains, vérifie bien ce point avant de me les proposer."},
+  {"role": "assistant", "content": "Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine."}
+ ]},
+ {"id": "k4", "date": "2026-04-21", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas."},
+  {"role": "assistant", "content": "Compris : seulement des candidats avec une expérience en production réelle."}
+ ]},
+ {"id": "j5", "date": "2026-05-04", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5."},
+  {"role": "assistant", "content": "D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui."}
+ ]},
+ {"id": "s4", "date": "2026-05-14", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais."},
+  {"role": "assistant", "content": "Entendu : des graphiques en barres, jamais de tartes."}
+ ]},
+ {"id": "k5", "date": "2026-05-20", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps."},
+  {"role": "assistant", "content": "Félicitations ! Quand commence-t-il ?"},
+  {"role": "user", "content": "Le 15 juin. Il faudra que je l'appelle après 30 jours en poste."},
+  {"role": "assistant", "content": "Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours."}
+ ]},
+ {"id": "j6", "date": "2026-05-25", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine."},
+  {"role": "assistant", "content": "Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet."}
+ ]},
+ {"id": "k6", "date": "2026-06-01", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi."},
+  {"role": "assistant", "content": "C'est noté : rapports le jeudi en fin de journée."}
+ ]},
+ {"id": "s5", "date": "2026-06-04", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30."},
+  {"role": "assistant", "content": "Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement."}
+ ]},
+ {"id": "j7", "date": "2026-06-08", "utilisateur": "julie", "messages": [
+  {"role": "user", "content": "Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé."},
+  {"role": "assistant", "content": "D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout."},
+  {"role": "user", "content": "J'ai essayé le nouveau café en face du bureau, pas mal du tout."},
+  {"role": "assistant", "content": "Content que ça vous plaise !"}
+ ]},
+ {"id": "s6", "date": "2026-06-11", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août."},
+  {"role": "assistant", "content": "Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août."}
+ ]},
+ {"id": "k7", "date": "2026-06-15", "utilisateur": "karim", "messages": [
+  {"role": "user", "content": "Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue."},
+  {"role": "assistant", "content": "Compris : un appel pour les urgences, pas un courriel."}
+ ]},
+ {"id": "s7", "date": "2026-06-22", "utilisateur": "sophie", "messages": [
+  {"role": "user", "content": "Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule."},
+  {"role": "assistant", "content": "Tout roule, Sophie. Bonne journée !"}
+ ]}
+]

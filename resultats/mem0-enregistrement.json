@@ -1,0 +1,197 @@
+{
+ "mem0ai": "2.2.1",
+ "duree_memorisation_s": 2642,
+ "souvenirs": {
+  "julie": [
+   "J'ai trouvé une nouvelle librairie sympa près de la place, il y a beaucoup de romans policiers.",
+   "Le café en face est très agréable et je recommande d'y aller pour une pause.",
+   "Le déjeuner au restaurant italien du coin est toujours une bonne idée pour une ambiance décontractée.",
+   "Le trajet en métro est souvent bondé aux heures de pointe, il vaut mieux prévoir un peu plus de temps.",
+   "Pour les futurs projets, il est préférable de privilégier les profils ayant une expérience dans le secteur de la santé.",
+   "The user is confirming that the screening process must include a check for claims data experience.",
+   "The user is reiterating the importance of claims data experience in the screening process.",
+   "The user is setting a new requirement for candidate screening: candidates must have experience with claims data.",
+   "The user is updating the screening criteria to specifically require experience with claims data.",
+   "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+   "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+   "The user needs to prepare a summary of the week's key achievements and challenges for the management meeting.",
+   "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms.",
+   "User confirmed the next review date for the 'Assurance' client account is set for the end of Q3.",
+   "User noted a change in the 'Assurance' client's service level agreement (SLA): response time must now be under 4 hours for critical issues.",
+   "User provided a specific contact for the 'Assurance' client: the primary contact is 'Jean Dupont' at 'jean.dupont@assurance.com'.",
+   "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+   "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+   "User updated the guideline for candidate shortlisting: maximum of 1 candidate.",
+   "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+   "User updated the guideline for candidate shortlisting: maximum of 3 candidates."
+  ],
+  "karim": [
+   "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+   "Le nombre de candidats par liste est de 4.",
+   "Le nombre de candidats retenus pour la phase suivante est de 4.",
+   "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références.",
+   "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+   "Le prochain entretien est prévu pour le 15 mars prochain.",
+   "Le user a mentionné que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+   "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+   "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+   "Les étapes d'un processus de recrutement incluent : 1. Le sourcing. 2. L'évaluation des compétences. 3. L'entretien. 4. La vérification des références."
+  ],
+  "sophie": [
+   "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+   "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+  ]
+ },
+ "rappels": {
+  "julie": {
+   "Combien de candidats dois-je mettre dans mes short-lists ?": [
+    "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 1 candidate."
+   ],
+   "Qui dois-je mettre en copie pour Assurances Riveraine ?": [
+    "User provided a specific contact for the 'Assurance' client: the primary contact is 'Jean Dupont' at 'jean.dupont@assurance.com'.",
+    "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms.",
+    "The user is updating the screening criteria to specifically require experience with claims data.",
+    "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+    "The user is setting a new requirement for candidate screening: candidates must have experience with claims data."
+   ],
+   "Quel jour j'envoie mes rapports ?": [
+    "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+    "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+    "User confirmed the next review date for the 'Assurance' client account is set for the end of Q3.",
+    "The user needs to prepare a summary of the week's key achievements and challenges for the management meeting.",
+    "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms."
+   ],
+   "Pourquoi Riveraine a-t-il refusé le candidat c042 ?": [
+    "User updated the guideline for candidate shortlisting: maximum of 1 candidate.",
+    "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+    "The user is updating the screening criteria to specifically require experience with claims data.",
+    "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+    "User set the guideline for candidate shortlisting: maximum of 5 candidates."
+   ],
+   "Qui me remplace pour Riveraine pendant mes vacances ?": [
+    "Le café en face est très agréable et je recommande d'y aller pour une pause.",
+    "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+    "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms.",
+    "The user is updating the screening criteria to specifically require experience with claims data.",
+    "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday."
+   ],
+   "Quel format dois-je donner à mes résumés de candidats ?": [
+    "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 1 candidate.",
+    "The user is setting a new requirement for candidate screening: candidates must have experience with claims data."
+   ],
+   "Avant mai, combien de candidats je mettais au maximum dans mes short-lists ?": [
+    "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+    "User updated the guideline for candidate shortlisting: maximum of 1 candidate."
+   ],
+   "Quel est mon logiciel de courriel préféré ?": [
+    "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+    "The user is reiterating the importance of claims data experience in the screening process.",
+    "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+    "User provided a specific contact for the 'Assurance' client: the primary contact is 'Jean Dupont' at 'jean.dupont@assurance.com'.",
+    "The user is confirming that the screening process must include a check for claims data experience."
+   ]
+  },
+  "karim": {
+   "Combien de candidats dois-je mettre dans mes short-lists ?": [
+    "Le nombre de candidats par liste est de 4.",
+    "Le nombre de candidats retenus pour la phase suivante est de 4.",
+    "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+   ],
+   "Quel jour dois-je envoyer mes rapports d'avancement maintenant ?": [
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références.",
+    "Les étapes d'un processus de recrutement incluent : 1. Le sourcing. 2. L'évaluation des compétences. 3. L'entretien. 4. La vérification des références."
+   ],
+   "Quelle exigence pratique Manufacturier Boréal a-t-il pour les candidats ?": [
+    "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+    "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+    "Le nombre de candidats par liste est de 4.",
+    "Le nombre de candidats retenus pour la phase suivante est de 4.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+   ],
+   "Qui ai-je placé chez Boréal en mai, et quand commence-t-il ?": [
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+    "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références."
+   ],
+   "Comment dois-tu me joindre pour une urgence ?": [
+    "Le user a mentionné que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+    "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+   ],
+   "Quel genre de candidat je ne présente jamais ?": [
+    "Le nombre de candidats par liste est de 4.",
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+    "Le nombre de candidats retenus pour la phase suivante est de 4.",
+    "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel."
+   ],
+   "Combien de candidats Julie met-elle dans ses short-lists ?": [
+    "Le nombre de candidats par liste est de 4.",
+    "Le nombre de candidats retenus pour la phase suivante est de 4.",
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+    "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références."
+   ],
+   "Comment s'appelle mon chat ?": [
+    "Le prochain entretien est prévu pour le 15 mars prochain.",
+    "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+    "Le user a mentionné que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+    "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+    "Le nombre de candidats par liste est de 4."
+   ]
+  },
+  "sophie": {
+   "Quel est notre objectif de délai moyen de placement ?": [
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+   ],
+   "Quels indicateurs je veux dans ma synthèse mensuelle ?": [
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+   ],
+   "Quand dois-je recevoir ma synthèse mensuelle ?": [
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+   ],
+   "Quel type de graphique je préfère dans mes synthèses ?": [
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+   ],
+   "Dans quels cas veut-on me mettre en copie ?": [
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+   ],
+   "Où et quand est-ce que je présente ma conférence ?": [
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+   ],
+   "Quel jour Karim envoie-t-il ses rapports ?": [
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+   ],
+   "Quel est mon budget de formation pour l'année ?": [
+    "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+    "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+   ]
+  }
+ }
+}

@@ -1,0 +1,7 @@
+# Calculer avec les modèles locaux (--mode direct), faire tourner Mem0 et tracer le graphique.
+# Il faut aussi Ollama, avec gemma4:e4b et bge-m3.
+-r requirements.txt
+requests==2.34.2
+mem0ai==2.2.1
+ollama==0.6.3
+matplotlib==3.10.5

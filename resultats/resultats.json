@@ -1,0 +1,1547 @@
+[
+ {
+  "systeme": "Sans mémoire",
+  "bonnes_reponses": 0.0,
+  "bonnes_reponses_par_type": {
+   "mise à jour": 0.0,
+   "relation": 0.0,
+   "préférence": 0.0,
+   "événement": 0.0,
+   "historique": 0.0
+  },
+  "refus_corrects": 1.0,
+  "reponses_perimees": 0,
+  "questions_avec_valeur_perimee": 3,
+  "confusions_entre_utilisateurs": 0,
+  "questions_exposees_aux_confusions": 6,
+  "souvenirs_gardes": 0,
+  "appels_llm_memorisation": 0,
+  "mots_envoyes_par_question": 57,
+  "details": {
+   "qj1": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj2": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj3": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj4": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj5": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj6": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj7": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj8": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk1": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk2": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk3": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk4": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk5": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk6": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk7": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk8": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs1": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs2": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs3": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs4": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs5": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs6": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs7": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs8": {
+    "rappel": null,
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   }
+  }
+ },
+ {
+  "systeme": "Historique complet en contexte",
+  "bonnes_reponses": 1.0,
+  "bonnes_reponses_par_type": {
+   "mise à jour": 1.0,
+   "relation": 1.0,
+   "préférence": 1.0,
+   "événement": 1.0,
+   "historique": 1.0
+  },
+  "refus_corrects": 1.0,
+  "reponses_perimees": 0,
+  "questions_avec_valeur_perimee": 3,
+  "confusions_entre_utilisateurs": 0,
+  "questions_exposees_aux_confusions": 6,
+  "souvenirs_gardes": 21,
+  "appels_llm_memorisation": 0,
+  "mots_envoyes_par_question": 408,
+  "details": {
+   "qj1": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Tu dois mettre 3 candidats au maximum par short-list.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj2": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Tu dois toujours mettre Nathalie Côté, leur directrice TI, en copie pour Assurances Riveraine.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj3": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Vos rapports hebdomadaires partent le lundi avant 9 h.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj4": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Riveraine a refusé le candidat c042 car il n'avait aucune expérience des données de réclamations.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj5": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Karim s'occupe de Riveraine pendant vos vacances du 6 au 17 juillet.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj6": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Les résumés doivent être en puces et ne pas dépasser une page.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj7": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "Avant mai, vous ne mettiez pas plus de 5 candidats dans une short-list.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj8": {
+    "rappel": [
+     "## Conversation du 2026-03-02\nJulie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.\nAssistant : Bonjour Julie ! C'est noté : 5 candidats au maximum par short-list.\nJulie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.\nAssistant : Entendu : des résumés en puces, d'une page au plus.",
+     "## Conversation du 2026-03-09\nJulie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.\nAssistant : Compris : Nathalie Côté, directrice TI d'Assurances Riveraine, en copie de tous les envois pour ce client.\nJulie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps.\nAssistant : Courage, mars finit toujours par passer !",
+     "## Conversation du 2026-03-23\nJulie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.\nAssistant : Noté : rapports hebdomadaires le lundi avant 9 h, avec un brouillon prêt le dimanche soir.",
+     "## Conversation du 2026-04-14\nJulie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.\nAssistant : Dommage. Je note la raison du refus : pas d'expérience des données de réclamations.\nJulie : Pour les prochains, vérifie bien ce point avant de me les proposer.\nAssistant : Je vérifierai l'expérience en données de réclamations pour les candidats de Riveraine.",
+     "## Conversation du 2026-05-04\nJulie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.\nAssistant : D'accord, 3 candidats au maximum par short-list à partir d'aujourd'hui.",
+     "## Conversation du 2026-05-25\nJulie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.\nAssistant : Bonnes vacances à l'avance ! Karim prendra Riveraine du 6 au 17 juillet.",
+     "## Conversation du 2026-06-08\nJulie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé.\nAssistant : D'accord : pour Santé-Nord, une expérience dans le milieu de la santé est un atout.\nJulie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.\nAssistant : Content que ça vous plaise !"
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk1": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Vous avez indiqué que vos short-lists doivent contenir exactement 4 candidats.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk2": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Vos rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk3": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Pour Manufacturier Boréal, les candidats doivent avoir une voiture car l'usine n'est pas desservie par les transports en commun.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk4": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Vous avez placé Samuel Gagnon chez Manufacturier Boréal, et il commence le 15 juin.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk5": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Pour les urgences, vous préférez que je vous appelle plutôt que de vous écrire un courriel.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk6": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Tu ne présentes jamais de candidat qui n'a pas d'expérience en production réelle, car les laboratoires ne comptent pas.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk7": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "Je ne me souviens pas de ce que Julie met dans ses short-lists.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk8": {
+    "rappel": [
+     "## Conversation du 2026-03-03\nKarim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.\nAssistant : Parfait Karim, 4 candidats par short-list.\nKarim : Tu peux aussi me rappeler les étapes d'un mandat ?\nAssistant : Bien sûr : ouverture du mandat, recherche, entrevue technique, évaluation, références, présentation au client, puis offre et suivi.",
+     "## Conversation du 2026-03-17\nKarim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.\nAssistant : D'accord, rapports d'avancement le vendredi après-midi.\nKarim : Merci. Je dois filer, j'ai une entrevue à 14 h.\nAssistant : Bonne entrevue !",
+     "## Conversation du 2026-03-31\nKarim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.\nAssistant : C'est noté : pour Manufacturier Boréal, une voiture est nécessaire.\nKarim : Mon contact là-bas, c'est Luc Bergeron, le directeur de la production.\nAssistant : Luc Bergeron, directeur de la production chez Manufacturier Boréal. Merci.",
+     "## Conversation du 2026-04-21\nKarim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.\nAssistant : Compris : seulement des candidats avec une expérience en production réelle.",
+     "## Conversation du 2026-05-20\nKarim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.\nAssistant : Félicitations ! Quand commence-t-il ?\nKarim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.\nAssistant : Noté : Samuel Gagnon commence le 15 juin chez Manufacturier Boréal, suivi après 30 jours.",
+     "## Conversation du 2026-06-01\nKarim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.\nAssistant : C'est noté : rapports le jeudi en fin de journée.",
+     "## Conversation du 2026-06-15\nKarim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.\nAssistant : Compris : un appel pour les urgences, pas un courriel."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs1": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Notre objectif de délai moyen de placement est maintenant de 25 jours.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs2": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Vous souhaitez voir le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie dans votre synthèse mensuelle.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs3": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Vous recevrez votre synthèse mensuelle le premier jour ouvrable de chaque mois.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs4": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Vous préférez les graphiques en barres et jamais de graphiques en tarte.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs5": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Vous ne voulez être mise en copie que pour les escalades.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs6": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "Vous présentez une conférence à Montréal le 18 septembre, et je vous en rappellerai la fin août.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs7": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs8": {
+    "rappel": [
+     "## Conversation du 2026-03-05\nSophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.\nAssistant : Bonjour Sophie. Que voulez-vous y voir ?\nSophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.\nAssistant : C'est noté : placements, délai moyen de placement et taux de remplacement sous garantie, le premier jour ouvrable du mois.",
+     "## Conversation du 2026-03-26\nSophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.\nAssistant : Entendu : vous êtes en copie seulement pour les escalades.",
+     "## Conversation du 2026-04-09\nSophie : Notre objectif cette année : un délai moyen de placement de 30 jours.\nAssistant : Objectif noté : 30 jours de délai moyen de placement.",
+     "## Conversation du 2026-05-14\nSophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.\nAssistant : Entendu : des graphiques en barres, jamais de tartes.",
+     "## Conversation du 2026-06-04\nSophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.\nAssistant : Bravo à l'équipe. Nouvel objectif : 25 jours de délai moyen de placement.",
+     "## Conversation du 2026-06-11\nSophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.\nAssistant : Noté : conférence à Montréal le 18 septembre, avec un rappel à la fin août.",
+     "## Conversation du 2026-06-22\nSophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.\nAssistant : Tout roule, Sophie. Bonne journée !"
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   }
+  }
+ },
+ {
+  "systeme": "Mémoire vectorielle naïve",
+  "bonnes_reponses": 1.0,
+  "bonnes_reponses_par_type": {
+   "mise à jour": 1.0,
+   "relation": 1.0,
+   "préférence": 1.0,
+   "événement": 1.0,
+   "historique": 1.0
+  },
+  "refus_corrects": 0.8,
+  "reponses_perimees": 0,
+  "questions_avec_valeur_perimee": 3,
+  "confusions_entre_utilisateurs": 1,
+  "questions_exposees_aux_confusions": 6,
+  "souvenirs_gardes": 30,
+  "appels_llm_memorisation": 0,
+  "mots_envoyes_par_question": 167,
+  "details": {
+   "qj1": {
+    "rappel": [
+     "[2026-03-02] Julie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.",
+     "[2026-05-04] Julie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.",
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer.",
+     "[2026-04-14] Julie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations."
+    ],
+    "reponse": "Tu dois mettre trois candidats au maximum par short-list, car tes clients trouvent qu'ils ont trop de choix avec cinq.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj2": {
+    "rappel": [
+     "[2026-03-09] Julie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.",
+     "[2026-05-25] Julie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.",
+     "[2026-04-14] Julie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer.",
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus."
+    ],
+    "reponse": "Tu dois toujours mettre Nathalie Côté en copie pour Assurances Riveraine, car elle est leur directrice TI et elle veut tout voir passer.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj3": {
+    "rappel": [
+     "[2026-03-23] Julie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.",
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer.",
+     "[2026-05-25] Julie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.",
+     "[2026-03-02] Julie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list."
+    ],
+    "reponse": "Tu m'as dit que tes rapports hebdomadaires partent le lundi avant 9 h.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj4": {
+    "rappel": [
+     "[2026-04-14] Julie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.",
+     "[2026-05-25] Julie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.",
+     "[2026-03-09] Julie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.",
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-05-04] Julie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5."
+    ],
+    "reponse": "Je me souviens que Riveraine a refusé le candidat c042 parce qu'il n'avait aucune expérience des données de réclamations.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj5": {
+    "rappel": [
+     "[2026-05-25] Julie : Je serai en vacances du 6 au 17 juillet. Pendant ce temps, c'est Karim qui s'occupe de Riveraine.",
+     "[2026-03-09] Julie : Pour Assurances Riveraine, il faut toujours mettre Nathalie Côté en copie. C'est leur directrice TI et elle veut tout voir passer.",
+     "[2026-04-14] Julie : Mauvaise nouvelle : Riveraine a refusé le candidat c042. Il n'avait aucune expérience des données de réclamations.",
+     "[2026-03-23] Julie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer."
+    ],
+    "reponse": "Karim s'occupe de Riveraine pendant tes vacances du 6 au 17 juillet.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj6": {
+    "rappel": [
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-03-02] Julie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.",
+     "[2026-05-04] Julie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.",
+     "[2026-03-23] Julie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer."
+    ],
+    "reponse": "Tu dois faire les résumés en puces, et ils ne doivent pas dépasser une page.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj7": {
+    "rappel": [
+     "[2026-03-02] Julie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.",
+     "[2026-05-04] Julie : Changement : à partir de maintenant, 3 candidats au maximum par short-list. Mes clients trouvent qu'ils ont trop de choix avec 5.",
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-04-14] Julie : Pour les prochains, vérifie bien ce point avant de me les proposer.",
+     "[2026-06-08] Julie : Pour Santé-Nord, privilégie les candidats qui ont déjà travaillé dans le milieu de la santé."
+    ],
+    "reponse": "Avant mai, tu ne mettais jamais plus de 5 candidats dans une short-list.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj8": {
+    "rappel": [
+     "[2026-03-02] Julie : Et pour les résumés de candidats, fais-les en puces, une page au maximum. Les clients ne lisent pas plus.",
+     "[2026-06-08] Julie : J'ai essayé le nouveau café en face du bureau, pas mal du tout.",
+     "[2026-03-23] Julie : Mes rapports hebdomadaires partent le lundi avant 9 h. Prépare-moi un brouillon le dimanche soir quand tu peux.",
+     "[2026-03-02] Julie : Bonjour ! Je commence à t'utiliser pour préparer mes short-lists. Pour info, je ne mets jamais plus de 5 candidats dans une short-list.",
+     "[2026-03-09] Julie : Il fait un froid de canard aujourd'hui, j'ai hâte au printemps."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk1": {
+    "rappel": [
+     "[2026-03-03] Karim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.",
+     "[2026-04-21] Karim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-17] Karim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie."
+    ],
+    "reponse": "Tu m'as dit que tes short-lists doivent contenir exactement 4 candidats.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk2": {
+    "rappel": [
+     "[2026-06-01] Karim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.",
+     "[2026-03-17] Karim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-17] Karim : Merci. Je dois filer, j'ai une entrevue à 14 h.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?"
+    ],
+    "reponse": "Vous avez indiqué que vos rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk3": {
+    "rappel": [
+     "[2026-03-31] Karim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.",
+     "[2026-04-21] Karim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.",
+     "[2026-05-20] Karim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.",
+     "[2026-03-03] Karim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste."
+    ],
+    "reponse": "Pour Manufacturier Boréal, les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk4": {
+    "rappel": [
+     "[2026-05-20] Karim : Bonne nouvelle ! J'ai placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-31] Karim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.",
+     "[2026-06-01] Karim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?"
+    ],
+    "reponse": "Vous avez placé Samuel Gagnon chez Manufacturier Boréal, et vous avez mentionné un appel de suivi 30 jours après le 15 juin.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk5": {
+    "rappel": [
+     "[2026-06-15] Karim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-17] Karim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.",
+     "[2026-03-17] Karim : Merci. Je dois filer, j'ai une entrevue à 14 h.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?"
+    ],
+    "reponse": "Pour les urgences, tu dois m'appeler plutôt que de m'écrire, car je ne vois pas mes courriels quand je suis en entrevue.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk6": {
+    "rappel": [
+     "[2026-04-21] Karim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.",
+     "[2026-03-03] Karim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.",
+     "[2026-03-31] Karim : Pour Manufacturier Boréal, les candidats doivent avoir une voiture. L'usine n'est pas desservie par le transport en commun.",
+     "[2026-06-15] Karim : Pour les urgences, appelle-moi plutôt que de m'écrire. Je ne vois pas mes courriels quand je suis en entrevue.",
+     "[2026-03-17] Karim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie."
+    ],
+    "reponse": "Tu ne présentes jamais un candidat qui n'a pas d'expérience en production, car les laboratoires ne comptent pas.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk7": {
+    "rappel": [
+     "[2026-03-03] Karim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.",
+     "[2026-04-21] Karim : Règle perso : je ne présente jamais un candidat qui n'a pas d'expérience en production. Les labos, ça ne compte pas.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-17] Karim : Merci. Je dois filer, j'ai une entrevue à 14 h.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?"
+    ],
+    "reponse": "Tu m'as dit que tes short-lists contenaient 4 candidats.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": true
+   },
+   "qk8": {
+    "rappel": [
+     "[2026-03-03] Karim : Salut. Moi, mes short-lists, c'est 4 candidats. Pas un de plus, pas un de moins.",
+     "[2026-03-17] Karim : Je fais mes rapports d'avancement le vendredi après-midi. Rappelle-le-moi si j'oublie.",
+     "[2026-05-20] Karim : Le 15 juin. Il faudra que je l'appelle après 30 jours en poste.",
+     "[2026-03-03] Karim : Tu peux aussi me rappeler les étapes d'un mandat ?",
+     "[2026-06-01] Karim : Je change mon horaire : mes rapports d'avancement partent maintenant le jeudi en fin de journée, plus le vendredi."
+    ],
+    "reponse": "INCONNU.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs1": {
+    "rappel": [
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-03-05] Sophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août."
+    ],
+    "reponse": "Notre objectif de délai moyen de placement est maintenant de 25 jours, suite à nos excellents résultats ce printemps.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs2": {
+    "rappel": [
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-05-14] Sophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.",
+     "[2026-03-05] Sophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours."
+    ],
+    "reponse": "Vous souhaitez que votre synthèse mensuelle contienne trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs3": {
+    "rappel": [
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-05-14] Sophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.",
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours."
+    ],
+    "reponse": "Vous avez demandé de recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs4": {
+    "rappel": [
+     "[2026-05-14] Sophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.",
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-03-26] Sophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-03-05] Sophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie."
+    ],
+    "reponse": "Vous préférez que j'utilise des graphiques en barres dans vos synthèses, et pas de graphiques en tarte.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs5": {
+    "rappel": [
+     "[2026-03-26] Sophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades.",
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.",
+     "[2026-05-14] Sophie : Dans mes synthèses, utilisez des graphiques en barres. Pas de graphiques en tarte, je ne les lis jamais.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30."
+    ],
+    "reponse": "Vous m'avez précisé de ne vous mettre en copie que pour les escalades d'échanges avec les clients.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs6": {
+    "rappel": [
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.",
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-03-26] Sophie : Petite précision : ne me mettez pas en copie des échanges courants avec les clients. Seulement les escalades."
+    ],
+    "reponse": "Vous présentez une conférence à Montréal le 18 septembre.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs7": {
+    "rappel": [
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-06-22] Sophie : Belle journée aujourd'hui. Rien de particulier, je voulais juste vérifier que tout roule.",
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.",
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs8": {
+    "rappel": [
+     "[2026-04-09] Sophie : Notre objectif cette année : un délai moyen de placement de 30 jours.",
+     "[2026-06-04] Sophie : On a dépassé nos attentes ce printemps. Je resserre l'objectif : 25 jours de délai moyen de placement au lieu de 30.",
+     "[2026-03-05] Sophie : Bonjour, ici Sophie. J'aimerais recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie : Je présente une conférence à Montréal le 18 septembre, sur le recrutement en TI. Rappelez-le-moi à la fin août.",
+     "[2026-03-05] Sophie : Trois indicateurs seulement : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie."
+    ],
+    "reponse": "INCONNU.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   }
+  }
+ },
+ {
+  "systeme": "Mémoire de faits avec mise à jour",
+  "bonnes_reponses": 0.895,
+  "bonnes_reponses_par_type": {
+   "mise à jour": 1.0,
+   "relation": 1.0,
+   "préférence": 1.0,
+   "événement": 0.5,
+   "historique": 1.0
+  },
+  "refus_corrects": 1.0,
+  "reponses_perimees": 0,
+  "questions_avec_valeur_perimee": 3,
+  "confusions_entre_utilisateurs": 0,
+  "questions_exposees_aux_confusions": 6,
+  "souvenirs_gardes": 36,
+  "appels_llm_memorisation": 60,
+  "mots_envoyes_par_question": 162,
+  "details": {
+   "qj1": {
+    "rappel": [
+     "[2026-05-04] Julie a modifié la règle de sélection pour limiter les short-lists à 3 candidats au maximum. (remplace, depuis le 2026-05-04 : « Julie ne met jamais plus de 5 candidats dans une short-list. », noté le 2026-03-02)",
+     "[2026-03-02] Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+     "[2026-05-04] Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats.",
+     "[2026-03-02] Julie préfère que les résumés de candidats soient faits en puces.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine."
+    ],
+    "reponse": "Depuis le 4 mai 2026, tu as modifié la règle pour limiter les short-lists à un maximum de 3 candidats.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj2": {
+    "rappel": [
+     "[2026-03-09] Julie doit toujours mettre Nathalie Côté en copie pour Assurances Riveraine.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine.",
+     "[2026-03-09] Nathalie Côté est la directrice TI d'Assurances Riveraine.",
+     "[2026-04-14] Julie est informée du refus du candidat c042 par Riveraine.",
+     "[2026-05-25] Karim s'occupera de Riveraine pendant l'absence de Julie, du 6 au 17 juillet."
+    ],
+    "reponse": "Tu dois toujours mettre Nathalie Côté en copie pour Assurances Riveraine.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj3": {
+    "rappel": [
+     "[2026-03-23] Julie doit envoyer ses rapports hebdomadaires le lundi avant 9 h.",
+     "[2026-03-02] Julie préfère que les résumés de candidats soient faits en puces.",
+     "[2026-03-23] Julie souhaite que son assistant prépare un brouillon le dimanche soir.",
+     "[2026-03-02] Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine."
+    ],
+    "reponse": "Tu dois envoyer tes rapports hebdomadaires le lundi avant 9 h.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj4": {
+    "rappel": [
+     "[2026-04-14] Julie est informée du refus du candidat c042 par Riveraine.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine.",
+     "[2026-05-25] Karim s'occupera de Riveraine pendant l'absence de Julie, du 6 au 17 juillet.",
+     "[2026-05-04] Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats.",
+     "[2026-05-04] Julie a modifié la règle de sélection pour limiter les short-lists à 3 candidats au maximum. (remplace, depuis le 2026-05-04 : « Julie ne met jamais plus de 5 candidats dans une short-list. », noté le 2026-03-02)"
+    ],
+    "reponse": "Je me souviens que tu as été informée du refus du candidat c042 par Riveraine le 14 avril 2026.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj5": {
+    "rappel": [
+     "[2026-05-25] Karim s'occupera de Riveraine pendant l'absence de Julie, du 6 au 17 juillet.",
+     "[2026-05-25] Julie sera en vacances du 6 au 17 juillet.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine.",
+     "[2026-04-14] Julie est informée du refus du candidat c042 par Riveraine.",
+     "[2026-03-09] Julie doit toujours mettre Nathalie Côté en copie pour Assurances Riveraine."
+    ],
+    "reponse": "Karim s'occupera de Riveraine pendant votre absence, du 6 au 17 juillet.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj6": {
+    "rappel": [
+     "[2026-03-02] Julie préfère que les résumés de candidats soient faits en puces.",
+     "[2026-03-02] Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+     "[2026-05-04] Julie a modifié la règle de sélection pour limiter les short-lists à 3 candidats au maximum. (remplace, depuis le 2026-05-04 : « Julie ne met jamais plus de 5 candidats dans une short-list. », noté le 2026-03-02)",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine.",
+     "[2026-05-04] Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats."
+    ],
+    "reponse": "Tu préfères que les résumés de candidats soient faits en puces et ne dépassent pas une page.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj7": {
+    "rappel": [
+     "[2026-05-04] Julie a modifié la règle de sélection pour limiter les short-lists à 3 candidats au maximum. (remplace, depuis le 2026-05-04 : « Julie ne met jamais plus de 5 candidats dans une short-list. », noté le 2026-03-02)",
+     "[2026-05-04] Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats.",
+     "[2026-03-02] Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+     "[2026-03-02] Julie préfère que les résumés de candidats soient faits en puces.",
+     "[2026-04-14] Julie exige que l'expérience en données de réclamations soit vérifiée pour les prochains candidats proposés par Riveraine."
+    ],
+    "reponse": "Avant mai, vous aviez la règle de ne jamais mettre plus de 5 candidats dans une short-list.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj8": {
+    "rappel": [
+     "[2026-03-02] Julie préfère que les résumés de candidats soient faits en puces.",
+     "[2026-03-02] Julie souhaite que les résumés de candidats ne dépassent pas une page.",
+     "[2026-03-23] Julie souhaite que son assistant prépare un brouillon le dimanche soir.",
+     "[2026-03-23] Julie doit envoyer ses rapports hebdomadaires le lundi avant 9 h.",
+     "[2026-05-04] Julie a constaté que ses clients trouvent qu'ils ont trop de choix avec 5 candidats."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk1": {
+    "rappel": [
+     "[2026-03-03] Karim a une short-list de 4 candidats.",
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat.",
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+     "[2026-04-21] Karim ne présente jamais un candidat qui n'a pas d'expérience en production.",
+     "[2026-06-01] Karim envoie ses rapports d'avancement le vendredi. (remplace, depuis le 2026-06-01 : « Karim fait ses rapports d'avancement le vendredi après-midi. », noté le 2026-03-17) (remplace, depuis le 2026-06-01 : « Karim change son horaire de rapports d'avancement. », noté le 2026-06-01) (remplace, depuis le 2026-06-01 : « Karim envoie ses rapports d'avancement le jeudi en fin de journée. », noté le 2026-06-01)"
+    ],
+    "reponse": "Tu as une short-list de 4 candidats.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk2": {
+    "rappel": [
+     "[2026-06-01] Karim envoie ses rapports d'avancement le vendredi. (remplace, depuis le 2026-06-01 : « Karim fait ses rapports d'avancement le vendredi après-midi. », noté le 2026-03-17) (remplace, depuis le 2026-06-01 : « Karim change son horaire de rapports d'avancement. », noté le 2026-06-01) (remplace, depuis le 2026-06-01 : « Karim envoie ses rapports d'avancement le jeudi en fin de journée. », noté le 2026-06-01)",
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat.",
+     "[2026-05-20] Karim doit appeler Samuel Gagnon après 30 jours en poste.",
+     "[2026-03-17] Karim a une entrevue à 14 h le 2026-03-17.",
+     "[2026-06-15] Karim ne consulte pas ses courriels lorsqu'il est en entrevue."
+    ],
+    "reponse": "Vous devez envoyer vos rapports d'avancement le jeudi en fin de journée.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk3": {
+    "rappel": [
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+     "[2026-03-31] Karim a un contact chez Manufacturier Boréal : Luc Bergeron, le directeur de la production.",
+     "[2026-04-21] Karim ne présente jamais un candidat qui n'a pas d'expérience en production.",
+     "[2026-05-20] Karim a placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.",
+     "[2026-03-03] Karim a une short-list de 4 candidats."
+    ],
+    "reponse": "Karim, tu as mentionné que pour Manufacturier Boréal, les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk4": {
+    "rappel": [
+     "[2026-03-31] Karim a un contact chez Manufacturier Boréal : Luc Bergeron, le directeur de la production.",
+     "[2026-05-20] Karim a placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps.",
+     "[2026-06-01] Karim envoie ses rapports d'avancement le vendredi. (remplace, depuis le 2026-06-01 : « Karim fait ses rapports d'avancement le vendredi après-midi. », noté le 2026-03-17) (remplace, depuis le 2026-06-01 : « Karim change son horaire de rapports d'avancement. », noté le 2026-06-01) (remplace, depuis le 2026-06-01 : « Karim envoie ses rapports d'avancement le jeudi en fin de journée. », noté le 2026-06-01)",
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat."
+    ],
+    "reponse": "Vous avez placé Samuel Gagnon chez Manufacturier Boréal comme spécialiste DevOps, mais je n'ai pas de souvenir de sa date de début.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk5": {
+    "rappel": [
+     "[2026-06-15] Karim préfère être appelé plutôt que d'être écrit pour les urgences.",
+     "[2026-05-20] Karim doit appeler Samuel Gagnon après 30 jours en poste.",
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat.",
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun.",
+     "[2026-06-01] Karim envoie ses rapports d'avancement le vendredi. (remplace, depuis le 2026-06-01 : « Karim fait ses rapports d'avancement le vendredi après-midi. », noté le 2026-03-17) (remplace, depuis le 2026-06-01 : « Karim change son horaire de rapports d'avancement. », noté le 2026-06-01) (remplace, depuis le 2026-06-01 : « Karim envoie ses rapports d'avancement le jeudi en fin de journée. », noté le 2026-06-01)"
+    ],
+    "reponse": "Pour les urgences, vous préférez être appelé plutôt que d'être écrit.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk6": {
+    "rappel": [
+     "[2026-04-21] Karim ne présente jamais un candidat qui n'a pas d'expérience en production.",
+     "[2026-06-15] Karim ne consulte pas ses courriels lorsqu'il est en entrevue.",
+     "[2026-03-03] Karim a une short-list de 4 candidats.",
+     "[2026-04-21] Karim considère que l'expérience en laboratoire ne compte pas.",
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun."
+    ],
+    "reponse": "Vous ne présentez jamais un candidat qui n'a pas d'expérience en production.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk7": {
+    "rappel": [
+     "[2026-03-03] Karim a une short-list de 4 candidats.",
+     "[2026-04-21] Karim ne présente jamais un candidat qui n'a pas d'expérience en production.",
+     "[2026-06-15] Karim ne consulte pas ses courriels lorsqu'il est en entrevue.",
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat.",
+     "[2026-03-31] Karim a une exigence pour Manufacturier Boréal : les candidats doivent avoir une voiture car l'usine n'est pas desservie par le transport en commun."
+    ],
+    "reponse": "Je ne me souviens pas de combien de candidats Julie met dans ses short-lists.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk8": {
+    "rappel": [
+     "[2026-03-03] Karim a demandé un rappel des étapes d'un mandat.",
+     "[2026-06-01] Karim envoie ses rapports d'avancement le vendredi. (remplace, depuis le 2026-06-01 : « Karim fait ses rapports d'avancement le vendredi après-midi. », noté le 2026-03-17) (remplace, depuis le 2026-06-01 : « Karim change son horaire de rapports d'avancement. », noté le 2026-06-01) (remplace, depuis le 2026-06-01 : « Karim envoie ses rapports d'avancement le jeudi en fin de journée. », noté le 2026-06-01)",
+     "[2026-03-03] Karim a une short-list de 4 candidats.",
+     "[2026-05-20] Karim doit appeler Samuel Gagnon après 30 jours en poste.",
+     "[2026-06-15] Karim préfère être appelé plutôt que d'être écrit pour les urgences."
+    ],
+    "reponse": "INCONNU.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs1": {
+    "rappel": [
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)",
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-04] Sophie a dépassé les attentes ce printemps."
+    ],
+    "reponse": "Notre objectif de délai moyen de placement est de 25 jours, suite au changement effectué le 4 juin 2026.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs2": {
+    "rappel": [
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-05-14] Sophie préfère les graphiques en barres dans ses synthèses.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)"
+    ],
+    "reponse": "Votre synthèse mensuelle doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs3": {
+    "rappel": [
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-05-14] Sophie préfère les graphiques en barres dans ses synthèses.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)"
+    ],
+    "reponse": "Vous souhaitez recevoir votre synthèse mensuelle le premier jour ouvrable de chaque mois.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs4": {
+    "rappel": [
+     "[2026-05-14] Sophie préfère les graphiques en barres dans ses synthèses.",
+     "[2026-05-14] Sophie n'utilise jamais de graphiques en tarte dans ses synthèses.",
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence."
+    ],
+    "reponse": "Vous préférez les graphiques en barres dans vos synthèses et n'utilisez jamais de graphiques en tarte.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs5": {
+    "rappel": [
+     "[2026-03-26] Sophie ne veut être mise en copie que des escalades. (remplace, depuis le 2026-03-26 : « Sophie ne veut pas être mise en copie des échanges courants avec les clients. », noté le 2026-03-26)",
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-22] Sophie voulait vérifier que tout roulait le 2026-06-22.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)"
+    ],
+    "reponse": "Vous ne voulez être mise en copie que des escalades.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs6": {
+    "rappel": [
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-11] Sophie présente une conférence à Montréal le 18 septembre sur le recrutement en TI.",
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)"
+    ],
+    "reponse": "Vous présentez votre conférence à Montréal le 18 septembre sur le recrutement en TI.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs7": {
+    "rappel": [
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-22] Sophie voulait vérifier que tout roulait le 2026-06-22.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)",
+     "[2026-06-11] Sophie présente une conférence à Montréal le 18 septembre sur le recrutement en TI."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs8": {
+    "rappel": [
+     "[2026-03-05] Sophie souhaite recevoir une synthèse mensuelle le premier jour ouvrable de chaque mois.",
+     "[2026-06-11] Sophie souhaite un rappel à la fin août concernant cette conférence.",
+     "[2026-06-04] Sophie resserre l'objectif à 25 jours de délai moyen de placement au lieu de 30. (remplace, depuis le 2026-06-04 : « Sophie a un objectif pour cette année : un délai moyen de placement de 30 jours. », noté le 2026-04-09)",
+     "[2026-03-05] Cette synthèse doit contenir trois indicateurs : le nombre de placements, le délai moyen de placement et le taux de remplacement sous garantie.",
+     "[2026-06-11] Sophie présente une conférence à Montréal le 18 septembre sur le recrutement en TI."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   }
+  }
+ },
+ {
+  "systeme": "Mem0 (local)",
+  "bonnes_reponses": 0.263,
+  "bonnes_reponses_par_type": {
+   "mise à jour": 0.0,
+   "relation": 0.0,
+   "préférence": 0.333,
+   "événement": 0.25,
+   "historique": 1.0
+  },
+  "refus_corrects": 0.8,
+  "reponses_perimees": 1,
+  "questions_avec_valeur_perimee": 3,
+  "confusions_entre_utilisateurs": 1,
+  "questions_exposees_aux_confusions": 6,
+  "souvenirs_gardes": 33,
+  "appels_llm_memorisation": null,
+  "mots_envoyes_par_question": 127,
+  "details": {
+   "qj1": {
+    "rappel": [
+     "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 1 candidate."
+    ],
+    "reponse": "Tu as mis à jour la directive de présélection des candidats pour un maximum de 1 candidat.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj2": {
+    "rappel": [
+     "User provided a specific contact for the 'Assurance' client: the primary contact is 'Jean Dupont' at 'jean.dupont@assurance.com'.",
+     "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms.",
+     "The user is updating the screening criteria to specifically require experience with claims data.",
+     "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+     "The user is setting a new requirement for candidate screening: candidates must have experience with claims data."
+    ],
+    "reponse": "Je me souviens que pour le client 'Assurance', le contact principal est Jean Dupont à jean.dupont@assurance.com.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj3": {
+    "rappel": [
+     "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+     "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+     "User confirmed the next review date for the 'Assurance' client account is set for the end of Q3.",
+     "The user needs to prepare a summary of the week's key achievements and challenges for the management meeting.",
+     "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms."
+    ],
+    "reponse": "Vous devez avoir vos rapports prêts pour lundi matin.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj4": {
+    "rappel": [
+     "User updated the guideline for candidate shortlisting: maximum of 1 candidate.",
+     "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+     "The user is updating the screening criteria to specifically require experience with claims data.",
+     "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+     "User set the guideline for candidate shortlisting: maximum of 5 candidates."
+    ],
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj5": {
+    "rappel": [
+     "Le café en face est très agréable et je recommande d'y aller pour une pause.",
+     "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+     "The user needs to schedule a follow-up call with the client next Tuesday to discuss the contract renewal terms.",
+     "The user is updating the screening criteria to specifically require experience with claims data.",
+     "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday."
+    ],
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj6": {
+    "rappel": [
+     "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 1 candidate.",
+     "The user is setting a new requirement for candidate screening: candidates must have experience with claims data."
+    ],
+    "reponse": "Je ne me souviens pas de ce que nous avons discuté concernant le format de vos résumés de candidats.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj7": {
+    "rappel": [
+     "User set the initial guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User set the guideline for candidate shortlisting: maximum of 5 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 3 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 2 candidates.",
+     "User updated the guideline for candidate shortlisting: maximum of 1 candidate."
+    ],
+    "reponse": "Vous aviez initialement fixé le maximum à 5 candidats, puis vous avez ajusté cette limite à 3, puis à 2, et finalement à 1 candidat.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qj8": {
+    "rappel": [
+     "The user needs to draft an email to the team reminding them about the mandatory compliance training deadline next Friday.",
+     "The user is reiterating the importance of claims data experience in the screening process.",
+     "The user needs help preparing reports for the week, which should be ready by Monday morning.",
+     "User provided a specific contact for the 'Assurance' client: the primary contact is 'Jean Dupont' at 'jean.dupont@assurance.com'.",
+     "The user is confirming that the screening process must include a check for claims data experience."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk1": {
+    "rappel": [
+     "Le nombre de candidats par liste est de 4.",
+     "Le nombre de candidats retenus pour la phase suivante est de 4.",
+     "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+    ],
+    "reponse": "Tu te souviens que le nombre de candidats par liste est de 4.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk2": {
+    "rappel": [
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références.",
+     "Les étapes d'un processus de recrutement incluent : 1. Le sourcing. 2. L'évaluation des compétences. 3. L'entretien. 4. La vérification des références."
+    ],
+    "reponse": "Je ne me souviens pas de la date à laquelle vous devez envoyer vos rapports d'avancement.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk3": {
+    "rappel": [
+     "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+     "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+     "Le nombre de candidats par liste est de 4.",
+     "Le nombre de candidats retenus pour la phase suivante est de 4.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+    ],
+    "reponse": "Je me souviens que le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk4": {
+    "rappel": [
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+     "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références."
+    ],
+    "reponse": "INCONNU",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk5": {
+    "rappel": [
+     "Le user a mentionné que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+     "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références."
+    ],
+    "reponse": "Pour les urgences, vous préférez être contacté par téléphone plutôt que par courriel.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk6": {
+    "rappel": [
+     "Le nombre de candidats par liste est de 4.",
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le candidat idéal doit avoir au moins 5 ans d'expérience dans le secteur manufacturier.",
+     "Le nombre de candidats retenus pour la phase suivante est de 4.",
+     "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel."
+    ],
+    "reponse": "Je ne me souviens pas de ce genre de candidat que vous ne présentez jamais.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qk7": {
+    "rappel": [
+     "Le nombre de candidats par liste est de 4.",
+     "Le nombre de candidats retenus pour la phase suivante est de 4.",
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, l'entretien et la vérification des références.",
+     "Le processus de recrutement comprend plusieurs étapes : le sourcing, l'évaluation des compétences, et la vérification des références."
+    ],
+    "reponse": "Je me souviens que le nombre de candidats par liste est de 4.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": true
+   },
+   "qk8": {
+    "rappel": [
+     "Le prochain entretien est prévu pour le 15 mars prochain.",
+     "Le user a mentionné un entretien pour un poste de spécialiste chez Manufacturier B, avec un entretien prévu le 15 mars.",
+     "Le user a mentionné que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+     "Le user a précisé que pour les urgences, il préfère être contacté par téléphone plutôt que par courriel.",
+     "Le nombre de candidats par liste est de 4."
+    ],
+    "reponse": "INCONNU",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs1": {
+    "rappel": [
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+    ],
+    "reponse": "Notre objectif de délai moyen de placement est de 30 jours.",
+    "reussie": false,
+    "perimee": true,
+    "confusion": false
+   },
+   "qs2": {
+    "rappel": [
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+    ],
+    "reponse": "Je me souviens que vous avez défini un objectif de délai moyen de placement de 30 jours et que vous avez une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs3": {
+    "rappel": [
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+    ],
+    "reponse": "Je me souviens que vous avez une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs4": {
+    "rappel": [
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+    ],
+    "reponse": "Je ne me souviens pas de votre préférence de graphique pour vos synthèses.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs5": {
+    "rappel": [
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+    ],
+    "reponse": "Je ne me souviens pas de ce que nous avons discuté concernant les cas où vous souhaitez être mise en copie.",
+    "reussie": false,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs6": {
+    "rappel": [
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+    ],
+    "reponse": "Vous présentez votre conférence à Montréal le 18 septembre.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs7": {
+    "rappel": [
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement.",
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours."
+    ],
+    "reponse": "Je ne me souviens pas de la date à laquelle Karim envoie ses rapports.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   },
+   "qs8": {
+    "rappel": [
+     "L'utilisateur a défini un objectif de délai moyen de placement de 30 jours.",
+     "L'utilisateur a une conférence à Montréal le 18 septembre sur le thème du recrutement."
+    ],
+    "reponse": "Je ne me souviens pas de votre budget de formation pour l'année.",
+    "reussie": true,
+    "perimee": false,
+    "confusion": false
+   }
+  }
+ }
+]
